@@ -1,0 +1,8 @@
+# 二进制不进仓库：单包 70–92 MB，写进 git 会永久留在历史里。
+# 所有 .apk 一律走 Release 附件（见 README）。
+*.apk
+*.apks
+*.img
+*.zip
+*.tar
+*.tar.gz

@@ -1,0 +1,5 @@
+# 人写的文本：一律 LF
+*.md         text eol=lf
+*.txt        text eol=lf
+*.gitignore  text eol=lf
+.gitattributes text eol=lf
